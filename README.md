@@ -1,5 +1,6 @@
 # Analyzing AirBnB House Prices in Seattle
 
+Blogpost on Medium can be found here: https://medium.com/@slietz/is-the-house-worth-it-components-of-house-prices-in-seattle-at-airbnb-d1a9d2890830
 
 ### Installation and libraries
 The entire code should run with Python versions 3.7 or higher
@@ -18,7 +19,7 @@ In the project, the subject of the analysis are house prices in Seattle on AirBn
 In particular, the following questions were investigated
 - Which variables correlate with house prices?
 - Do Review Scores, Location and Sentiment in the comments explain prices resp. matter?
-- When modelling house prices (predicting) using a linear model (Lasso) which are the most important (significant) features and what effect do they have on price - considering all amenities of a house?
+- When modelling house prices (predicting) using a linear model (Lasso) which are the most important (significant) features and what effect do they have on price?
 
 
 ### Files:
